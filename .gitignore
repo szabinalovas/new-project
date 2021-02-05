@@ -14,6 +14,10 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+.project
+.classpath
+mvnw
+mvnw.cmd
 
 # External tool builders
 .externalToolBuilders/
